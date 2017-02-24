@@ -28,7 +28,7 @@ domain event can be enriched
 
 don't put too much information into event that it loses it's meaning
 
-time triggered events like end of day end of fixcal year can be events not triggered by commands but by some concrete timer
+time triggered events like end of day end of fiscal year can be events not triggered by commands but by some concrete timer
 
 eg MarketsClosed event and not just `4 pm event`
 
